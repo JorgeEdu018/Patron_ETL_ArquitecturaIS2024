@@ -1,0 +1,3 @@
+...file D:\ETL\gestor-de-datos-master\result\csv.json processed
+...file D:\ETL\gestor-de-datos-master\result\xml.json processed
+...file D:\ETL\gestor-de-datos-master\result\htm.json processed
