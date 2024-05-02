@@ -7,8 +7,8 @@
 # Version: 1.0.1 Marzo 2023
 # Descripción:
 #
-#   Este archivo define un procesador de datos que se encarga de extraer
-#   el contenido de un archivo TXT
+#   Este archivo define un procesador de datos que se encarga de transformar
+#   y formatear el contenido de un archivo TXT
 #-------------------------------------------------------------------------
 from src.extractors.txt_extractor import TXTExtractor
 from os.path import join
