@@ -1,3 +1,15 @@
+##!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#-------------------------------------------------------------------------
+# Archivo: txt_transformer.py
+# Capitulo: Flujo de Datos
+# Autor(es): Heli, Cristian, Jorge y Jonathan
+# Version: 1.0.1 Marzo 2023
+# Descripción:
+#
+#   Este archivo define un procesador de datos que se encarga de extraer
+#   el contenido de un archivo TXT
+#-------------------------------------------------------------------------
 from src.extractors.txt_extractor import TXTExtractor
 from os.path import join
 import luigi, os, csv, json, re
